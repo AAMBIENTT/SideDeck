@@ -32,4 +32,4 @@ This project is open source. License information will be included in the reposit
 
 ---
 
-Play your device like a console.
+Disclaimer: This project is active development with assistance from AI like Copilot & ChatGPT.
