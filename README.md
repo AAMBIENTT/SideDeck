@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d600e822-dad7-4bc0-aaf9-8898e56335df" alt="SideDeck" />
+</p>
 
-![SideDeck](https://github.com/user-attachments/assets/d600e822-dad7-4bc0-aaf9-8898e56335df)
 
 # SideDeck
 
